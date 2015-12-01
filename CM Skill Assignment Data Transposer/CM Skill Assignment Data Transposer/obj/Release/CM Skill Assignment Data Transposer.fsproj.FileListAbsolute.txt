@@ -1,0 +1,34 @@
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Release\CM_Skill_Assignment_Data_Transposer.exe.config
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Release\CM_Skill_Assignment_Data_Transposer.XML
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Release\CM_Skill_Assignment_Data_Transposer.exe
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Release\CM_Skill_Assignment_Data_Transposer.pdb
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Release\FSharp.Core.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Release\FSharp.Data.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Release\FSharp.Data.TypeProviders.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Release\FSharp.Data.pdb
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Release\FSharp.Data.xml
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Release\FSharp.Core.xml
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\obj\Release\CM Skill Assignment Data Transposer.fsproj.ResolveComReference.cache
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\obj\Release\CM_Skill_Assignment_Data_Transposer.exe
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\obj\Release\CM_Skill_Assignment_Data_Transposer.pdb
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\obj\Release\CM Skill Assignment Data Transposer.fsproj.CM_Skill_Assignment_Data_Transposer.exe.config
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.0\CM_Skill_Assignment_Data_Transposer.exe.config
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.0\CM_Skill_Assignment_Data_Transposer.exe
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.0\CM_Skill_Assignment_Data_Transposer.pdb
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.0\CM_Skill_Assignment_Data_Transposer.XML
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.0\FSharp.Core.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.0\FSharp.Data.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.0\FSharp.Data.TypeProviders.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.0\FSharp.Data.pdb
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.0\FSharp.Data.xml
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.0\FSharp.Core.xml
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.1\CM_Skill_Assignment_Data_Transposer.exe.config
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.1\CM_Skill_Assignment_Data_Transposer.exe
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.1\CM_Skill_Assignment_Data_Transposer.pdb
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.1\CM_Skill_Assignment_Data_Transposer.XML
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.1\FSharp.Core.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.1\FSharp.Data.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.1\FSharp.Data.TypeProviders.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.1\FSharp.Data.pdb
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.1\FSharp.Data.xml
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\CMTv1.1\FSharp.Core.xml

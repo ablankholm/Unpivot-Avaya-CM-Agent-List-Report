@@ -1,0 +1,13 @@
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Debug\CM_Skill_Assignment_Data_Transposer.XML
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Debug\FSharp.Core.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Debug\FSharp.Data.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Debug\FSharp.Data.TypeProviders.dll
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Debug\FSharp.Data.pdb
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Debug\FSharp.Data.xml
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Debug\FSharp.Core.xml
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\obj\Debug\CM Skill Assignment Data Transposer.fsproj.ResolveComReference.cache
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\obj\Debug\CM_Skill_Assignment_Data_Transposer.exe
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\obj\Debug\CM_Skill_Assignment_Data_Transposer.pdb
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Debug\CM_Skill_Assignment_Data_Transposer.exe.config
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Debug\CM_Skill_Assignment_Data_Transposer.exe
+C:\Users\andersb\Projects\CM Skill Assignment Data Transposer\CM Skill Assignment Data Transposer\bin\Debug\CM_Skill_Assignment_Data_Transposer.pdb
